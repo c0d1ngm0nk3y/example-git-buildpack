@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "I'm a buildpack!"
-exit 1
+exit 0
